@@ -1,141 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,100:01579B&height=200&section=header&text=Sheharyar%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,50:0175C2,100:01579B&height=220&section=header&text=Sheharyar%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Creator&descAlignY=57&descSize=20&animation=fadeIn" />
 
-<img src="https://komarev.com/ghpvc/?username=sheharyarhussain&label=Profile%20Views&color=54C5F8&style=for-the-badge" alt="profile views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54C5F8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sheharyar+%F0%9F%91%8B;A+Passionate+Flutter+Developer+%F0%9F%92%99;Building+Beautiful+Cross-Platform+Apps+%F0%9F%93%B1;Firebase+%7C+Supabase+%7C+Appwrite+%E2%9A%A1)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=itsshary&label=Profile+Views&color=0175C2&style=for-the-badge" />
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-## 🚀 About Me
+<img align="right" alt="Flutter Dev GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-</div>
+<br/>
 
+- 🚀 &nbsp;I'm a **Flutter Developer** focused on crafting beautiful mobile apps
+- 🔭 &nbsp;Currently working on exciting **Flutter Projects**
+- 💙 &nbsp;Passionate about **Dart**, **Firebase** & **Mobile UI/UX**
+- 🛠️ &nbsp;Building with **Supabase**, **Appwrite** & **REST APIs**
+- 💬 &nbsp;Ask me about **Flutter, Firebase & Mobile Development**
+- 📫 &nbsp;Reach me at **itsshary784@gmail.com**
+- ⚡ &nbsp;Fun fact — **I'm coming to my teen! 🎉**
 
-<table>
-<tr>
-<td width="50%">
-
-🔭 &nbsp;**Currently working on** Flutter Projects  
-🎯 &nbsp;**Focused on** Cross-Platform Mobile Apps  
-💬 &nbsp;**Ask me about** Flutter, Firebase & Mobile Dev  
-📫 &nbsp;**Reach me at** itsshary784@gmail.com  
-⚡ &nbsp;**Fun fact** I'm coming to my teen! 🎉
-
-</td>
-<td width="50%">
-
-```yaml
-name: Sheharyar Hussain
-role: Flutter Developer
-skills:
-  - Flutter & Dart
-  - Firebase / Supabase
-  - Mobile UI/UX Design
-  - Appwrite & REST APIs
-status: Open to opportunities ✅
-```
-
-</td>
-</tr>
-</table>
+<br/><br/><br/><br/>
 
 ---
 
-<div align="center">
-
-## 💙 Flutter & Mobile Stack
-
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📱 Core Technologies
-
-<p>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
-</p>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🔥 Backend & Database
-
-<p>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  </a>
-  <a href="https://appwrite.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  </a>
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### 🎨 Design & Tools
-
-<p>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsshary&show_icons=true&theme=tokyonight&border_color=54C5F8&title_color=54C5F8&icon_color=54C5F8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshary&theme=tokyonight&ring=54C5F8&fire=FF6B6B&currStreakLabel=54C5F8" />
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsshary&show_icons=true&theme=tokyonight&border_color=0175C2&title_color=54C5F8&icon_color=54C5F8&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshary&theme=tokyonight&ring=54C5F8&fire=FF6B6B&currStreakLabel=54C5F8&sideLabels=54C5F8" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshary&layout=compact&theme=tokyonight&border_color=54C5F8&title_color=54C5F8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshary&layout=compact&theme=tokyonight&border_color=0175C2&title_color=54C5F8&langs_count=6" />
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-## 💬 What I Do
-
-| 📱 Mobile Development | 🎨 UI/UX Design | ☁️ Backend Integration |
-|:---:|:---:|:---:|
-| Cross-platform apps with Flutter | Beautiful interfaces with Figma & XD | Firebase, Supabase & Appwrite |
-| Smooth animations & performance | Pixel-perfect implementations | Real-time data & auth |
+![Trophies](https://github-profile-trophy.vercel.app/?username=itsshary&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6)
 
 </div>
 
 ---
 
+## 📬 Connect With Me
+
 <div align="center">
 
-## 📬 Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsshary784@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsshary)
 
-<a href="mailto:itsshary784@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/>
 
-<br/><br/>
-
-> 💙 *"Building beautiful cross-platform experiences, one widget at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01579B,100:54C5F8&height=100&section=footer" />
+> *"Building beautiful cross-platform experiences, one widget at a time. 💙"*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01579B,50:0175C2,100:54C5F8&height=120&section=footer&animation=fadeIn" />
