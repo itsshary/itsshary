@@ -14,18 +14,34 @@
 
 </div>
 
-```dart
-class SheharyarHussain extends FlutterDeveloper {
-  final String name        = "Sheharyar Hussain";
-  final String role        = "Flutter Developer";
-  final String focus       = "Cross-Platform Mobile Apps";
-  final String email       = "itsshary784@gmail.com";
-  final String funFact     = "I'm coming to my teen! 🎉";
 
-  List<String> currentWork = ["Flutter Projects", "Mobile UI/UX"];
-  List<String> expertise   = ["Flutter", "Dart", "Firebase", "Supabase"];
-}
+<table>
+<tr>
+<td width="50%">
+
+🔭 &nbsp;**Currently working on** Flutter Projects  
+🎯 &nbsp;**Focused on** Cross-Platform Mobile Apps  
+💬 &nbsp;**Ask me about** Flutter, Firebase & Mobile Dev  
+📫 &nbsp;**Reach me at** itsshary784@gmail.com  
+⚡ &nbsp;**Fun fact** I'm coming to my teen! 🎉
+
+</td>
+<td width="50%">
+
+```yaml
+name: Sheharyar Hussain
+role: Flutter Developer
+skills:
+  - Flutter & Dart
+  - Firebase / Supabase
+  - Mobile UI/UX Design
+  - Appwrite & REST APIs
+status: Open to opportunities ✅
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
